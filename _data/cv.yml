@@ -1,0 +1,95 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Teja Kolla
+    - name: Date of Birth
+      value: 25th May 2002
+    - name: Languages
+      value: English,Telugu, Hindi, Japanese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Technology
+      institution: Manav Rachna University, Faridabad, India
+      year: 2019 - 2023
+      description:
+        - CS grad with honors, specializing in Data Science & Machine Learning
+        - Completed relevant coursework, including Python Programming, Data Structures and Algorithms, Supervised Learning, Unsupervised Learning & Neural Networks, Database Management System, Computer Architecture & Organization, Advanced Neural Networks, Natural Language Processing, Computer Vision, Big Data
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Vice President - Blockchain Innovation
+      institution: AIW Works Pvt. Ltd.
+      year: Jan 2023
+      description:
+        - Automated the entire ecosystem for financial institutions, establishing a seamless and end-to-end digitization framework.
+        - Involved in a POC in which we tried to achieve event-based invocation of the ERC20 smart contract to disburse payments.
+        -  Effectively led a team of 22 individuals, demonstrating strong leadership and strategic management skills to drive the team toward achieving organizational goals.
+        - Oversaw cross-functional teams, ensuring seamless coordination between departments.
+        -  Developed and nurtured key client relationships, fostering long-term partnerships. Implemented data-driven marketing campaigns, leveraging market trends to enhance brand visibility.
+
+    - title: Blockchain Developer
+      institution: AIW Works Pvt. Ltd.
+      year: Nov 2021
+      description:
+        - Designed and implemented the blockchain-powered Decentralized applications.
+        - Created an ERC- 20 token on the polygon (previously matic).
+        - Implemented blockchain-based ERC-721 NFT Bots for authentication and specific role assignment for the users.
+        - Performed essential testing procedures to ensure the robust functionality and security of blockchain components, contributing to the overall quality assurance of the project.
+        - Ensured smooth integration between frontend and backend components, optimizing system performance and enhancing overall user experience.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Image Captioning with Visual Attention
+      # year: 2015-now
+      description: 
+      - Implemented a robust deep-learning model for image captioning. Utilized visual attention mechanisms to improve the model's captioning accuracy.
+      - Integrated CNN architectures to effectively extract features from input images. Employed sequential models for generating coherent and contextually relevant captions.
+      - Contributed to enhancing the overall user experience by providing detailed and accurate image descriptions.
+
+    - title: Neural Machine Translation 
+      # year: 2015-now
+      description: 
+      - Developed and implemented a Neural Machine Translation model utilizing a sequence-to-sequence transformer.
+      - Achieved accurate and nuanced Portuguese-to-English translations, demonstrating proficiency in leveraging cutting-edge transformer architectures for language processing.
+      - Demonstrated proficiency in both convolutional and sequential neural network architectures, contributing to advancements in language translation technologies.
+
+      
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Outstanding Achievers Award in recognition of outstanding achievements in research in the graduating class of 2023.
+    - year: 2022
+      items: 
+        - Silver medal in AGRANI 2022 organized by the Network of Organizations for Science & Technology Communication (NOSTC).
+        - Winner of Innoskill 2022 organized by Manav Rachna Educational Institutions.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Technical Skills
+      items: 
+        - <u>Languages:</u> Python, C, Solidity, JavaScript
+        - <u>Frameworks:</u> NodeJS, ReactJS, Web3JS, Django
+        - <u>DevOps Tools:</u> Jenkins, Docker, Kubernetes, Digital Ocean, Selenium
+        - <u>Machine Learning Frameworks:</u> TensorFlow, Keras, PyTorch
+        - <u>Version Control:</u> Git
+        - <u>Operating Systems:</u> Linux and Windows
+        - <u>Other Skills:</u> Agile Methodology, Process Planning, Project Management 
+    # - title: Topic 2.
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Chess, Music, Traveling.
