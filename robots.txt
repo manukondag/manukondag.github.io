@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mgkreddy8688.github.io/sitemap.xml
